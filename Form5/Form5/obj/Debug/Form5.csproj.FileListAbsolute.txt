@@ -1,0 +1,10 @@
+E:\Ônthuyettrinh\source\repos\Form5\Form5\bin\Debug\Form5.exe.config
+E:\Ônthuyettrinh\source\repos\Form5\Form5\bin\Debug\Form5.exe
+E:\Ônthuyettrinh\source\repos\Form5\Form5\bin\Debug\Form5.pdb
+E:\Ônthuyettrinh\source\repos\Form5\Form5\obj\Debug\Form5.csproj.AssemblyReference.cache
+E:\Ônthuyettrinh\source\repos\Form5\Form5\obj\Debug\Form5.Form1.resources
+E:\Ônthuyettrinh\source\repos\Form5\Form5\obj\Debug\Form5.Properties.Resources.resources
+E:\Ônthuyettrinh\source\repos\Form5\Form5\obj\Debug\Form5.csproj.GenerateResource.cache
+E:\Ônthuyettrinh\source\repos\Form5\Form5\obj\Debug\Form5.csproj.CoreCompileInputs.cache
+E:\Ônthuyettrinh\source\repos\Form5\Form5\obj\Debug\Form5.exe
+E:\Ônthuyettrinh\source\repos\Form5\Form5\obj\Debug\Form5.pdb

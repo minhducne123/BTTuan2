@@ -1,0 +1,10 @@
+E:\Ônthuyettrinh\source\repos\Form4\Form4\bin\Debug\Form4.exe.config
+E:\Ônthuyettrinh\source\repos\Form4\Form4\bin\Debug\Form4.exe
+E:\Ônthuyettrinh\source\repos\Form4\Form4\bin\Debug\Form4.pdb
+E:\Ônthuyettrinh\source\repos\Form4\Form4\obj\Debug\Form4.csproj.AssemblyReference.cache
+E:\Ônthuyettrinh\source\repos\Form4\Form4\obj\Debug\Form4.Form1.resources
+E:\Ônthuyettrinh\source\repos\Form4\Form4\obj\Debug\Form4.Properties.Resources.resources
+E:\Ônthuyettrinh\source\repos\Form4\Form4\obj\Debug\Form4.csproj.GenerateResource.cache
+E:\Ônthuyettrinh\source\repos\Form4\Form4\obj\Debug\Form4.csproj.CoreCompileInputs.cache
+E:\Ônthuyettrinh\source\repos\Form4\Form4\obj\Debug\Form4.exe
+E:\Ônthuyettrinh\source\repos\Form4\Form4\obj\Debug\Form4.pdb
